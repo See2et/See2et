@@ -24,6 +24,4 @@
 
 # What are you doing?
 
-I'm committing for private repos of [D-Techs Circle](https://github.com/Diverse-Techs-Circle).
-
-I often use TypeScript, and I started learning React.
+I'm committing for [SuteraVR](https://github.com/SuteraVR/SuteraVR)
