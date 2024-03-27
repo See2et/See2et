@@ -12,16 +12,14 @@
   </a>
 </p>
 
-<a href="https://www.buymeacoffee.com/see2et" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+# SuteraVR: Distributed VR-Social
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=See2et&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=See2et&theme=onedark&show_icons=ture" />
-</p>
+To make the VR-Social as certain as reality, it must not become fragile things dependent on specific companies or platforms.
+I'm an initiator/contributor of [SuteraVR](https://github.com/SuteraVR/SuteraVR).
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=see2et&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+# Sponsor
 
-# What are you doing?
-
-I'm committing for [SuteraVR](https://github.com/SuteraVR/SuteraVR)
+I am a high-school student, and spend most time to work on SuteraVR.
+By becoming Patron, you help development of this project.
+https://patreon.com/see2et
