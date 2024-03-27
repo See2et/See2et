@@ -21,7 +21,7 @@ I'm an initiator/contributor of [SuteraVR](https://github.com/SuteraVR/SuteraVR)
 
 # Lecture
 
-I'm doing lecture meeting about distributed VR-Socail.
+I'm doing lecture meeting about distributed VR-Social.
 
 example: [【第6回講師：See2et 氏】メタバース上の著名クリエイター交流する講演会 「”VRすごろく”を通してVRの魅力を体験」【tsukurunメタバースPJ】](https://gunma-tsukurun.jp/involved/event240217/)
 
